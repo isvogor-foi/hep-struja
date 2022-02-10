@@ -1,0 +1,3 @@
+requests==2.21.0 
+pushbullet.py==0.12.0
+beautifulsoup4==4.10.0 
